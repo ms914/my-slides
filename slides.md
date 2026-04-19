@@ -7,11 +7,29 @@ backgroundColor: #fff
 # Willkommen!
 Erstellt direkt auf meinem iPhone.
 
+- Eichhörnchen (Lena, Magdalena, Lara)
+- Fuchs (Mia)
+- Jaguar (Ela +Sumeira)
+- Moos (Rodeon + Benjamin + Lars)
+- Pilze (Konstantin+Xaver)
+- Fische (Mariella)
+- Eisvogel (Amelia)
+
 ---
 
 ## Montag, 19.4.26
 1. Bio 7c Klassifizierung von Lebewesen
 2. Chemie 8c Salze Einführung
+
+#### Bestimmung, Klassifizierung
+- Kriterien (Farbe, Fortpflanzung, Lebensraum, Anzahl der Beine, Wie viele Zellen)
+- Biodiversität
+- Organigramm
+- Taxonomie (einheitliches Verfahren, um Pflanzen, Tiere, Pilze,..) nach einheitlichen Kriterien zu ordnen
+#### Wirbellose: Bienen
+#### Wirbellose: Mehlwürmer
+#### Pflanzen, Blüten
+#### Herbarium
 
 ---
 
