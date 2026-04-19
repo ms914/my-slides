@@ -54,20 +54,28 @@ Element                              Verbindung
 - Filtrieren
 - Verdampfen
 
+---
+
 #### Salinental
 - Solequelle in 500 m Tiefe 
 - Konzentration der Sole durch Verdunstung in Gradierwerken
 - Verdampfung in Siederei in Pfannen
 - heute: Europas größtes Freilufinhalatorium mit 7 grißen Gradierwerken (1250 m lang, 9m hoch)
 
+---
+
 #### Kali Bergbau
 - Untertageabbau von Kali und Steinsalz
 - Düngemittel
 - Streusalz
 
+---
+
 #### Meerwasser
 - Totes Meer
 - Salinen in Frankreich
+
+---
 
 #### Verwendung
 - Ernährung
@@ -80,11 +88,15 @@ Element                              Verbindung
 - Glashütten (Sand, Soda (Natriumcarbonat), Pottasche (Kaliumkarbonat), Manganoxid, Metalloxid
 - Waldglashütten (Gewinnung der Pottasche aus der Verbrennung von Holz)
 
+---
+
 #### Aufbau der Atome aus Protonen, Elektronen
 - Atome: Kern und Hülle (Elektronen)
 - Thomson-Modell
 - Rutherford-Modell
 - Bohr-Modell
+
+---
 
 #### Atome und Ionen
 - Elektronenübertragung
