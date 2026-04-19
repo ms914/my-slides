@@ -5,8 +5,8 @@ backgroundColor: #fff
 ---
 
 # Willkommen!
-Erstellt direkt auf meinem iPhone.
 
+ausstehende Referate:
 - Eichhörnchen (Lena, Magdalena, Lara)
 - Fuchs (Mia)
 - Jaguar (Ela +Sumeira)
