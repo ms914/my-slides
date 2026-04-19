@@ -7,10 +7,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
+
       - name: Build Marp Slide
-        uses: docker://marpteam/marp-cli:latest
+        uses: marp-team/marp-cli-action@v1.1.2
         with:
-          args: --user root slides.md -o index.html --html
+          args: slides.md -o index.html --html
+        env:
+          MARP_USER: root:root
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
