@@ -65,6 +65,7 @@ Element                              Verbindung
 
 ##### Homogene Gemische
 - Legierung (Kupfer + Zinn = Bronze)
+- Glas (Sand + Soda + Pottasche + Metalloxide)
 - Wein (Wasser + Alkohol)
 - Sprudel (Wasser + Kohlendioxid)
 - Luft (Stickstoff + Sauerstoff)
