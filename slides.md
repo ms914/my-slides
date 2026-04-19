@@ -18,7 +18,7 @@ Erstellt direkt auf meinem iPhone.
 ---
 
 ## Montag, 19.4.26
-1. Bio 7c Klassifizierung von Lebewesen
+1. Bio 7c Klassifizierung von Lebewesen, Referat, Tafel, Pult
 2. Chemie 8c Salze Einführung
 
 #### Bestimmung, Klassifizierung
@@ -26,9 +26,14 @@ Erstellt direkt auf meinem iPhone.
 - Biodiversität
 - Organigramm
 - Taxonomie (einheitliches Verfahren, um Pflanzen, Tiere, Pilze,..) nach einheitlichen Kriterien zu ordnen
-#### Wirbellose: Bienen
-#### Wirbellose: Mehlwürmer
+
+#### Wirbellose: Bienen (Insekt)
+
+#### Wirbellose: Mehlwürmer, Käfer (Decathlon), 
+- Altenbamberg Kampa Angelsport Laden
+
 #### Pflanzen, Blüten
+
 #### Herbarium
 
 ---
@@ -57,6 +62,9 @@ Element                              Verbindung
 - Rauch (Ruß + Luft)
 - Milch (Fett + Wasser = Emulsion)
 - Nebel (Wasser + Luft)
+
+---
+
 ##### Homogene Gemische
 - Legierung (Kupfer + Zinn = Bronze)
 - Wein (Wasser + Alkohol)
@@ -65,6 +73,15 @@ Element                              Verbindung
 - Salzlösung (Salz + Wasser = Sole)
 
 ---
+
+### Stofftrennung
+- Dekantieren (Sedimentation, Masse)
+- Verdampfen (Siedepunkt, Wasser und Salz)
+- Zentrifugieren (Masse, Blut)
+- Filtrieren (Partikelgröße, Fällungen)
+- Extrahieren (Löslichkeit, Tee)
+- Destillation (Siedepunkt, Alkohol, Erdölfraktionierung, Silizium)
+- Chromatografie (Adsorbtion, Löslichkeit, Fliessgeschwindigkeit)
 
 #### Salzgewinnung
 - Zerkleinern
@@ -121,3 +138,12 @@ Element                              Verbindung
 - Ionenbindung
 - Oktettregel
 - $Na^+ + Cl_- \to NaCl$
+
+### Bio 8c
+#### Zucker
+##### Zucker, Leber verfettet in 5 Tagen, Gehirn ist gepolt
+##### zurück: kein Zucker (Alkohol) (25 g x 5 = 100 g in 1 Woche), 90 g pro Tag ist die Rate (Pizza, Brot)
+
+#### Atmung
+
+#### Nerven
