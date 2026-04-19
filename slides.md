@@ -21,11 +21,15 @@ ausstehende Referate:
 1. Bio 7c Klassifizierung von Lebewesen, Referat, Tafel, Pult
 2. Chemie 8c Stofftrennung, Salze Einführung
 
+---
+
 #### Bestimmung, Klassifizierung
 - Kriterien (Farbe, Fortpflanzung, Lebensraum, Anzahl der Beine, Wie viele Zellen)
 - Biodiversität
 - Organigramm
 - Taxonomie (einheitliches Verfahren, um Pflanzen, Tiere, Pilze,..) nach einheitlichen Kriterien zu ordnen
+
+---
 
 #### Wirbellose: Bienen (Insekt)
 
@@ -35,12 +39,6 @@ ausstehende Referate:
 #### Pflanzen, Blüten
 
 #### Herbarium
-
----
-
-## Bio 7c
-1. Ja
-2. Aber jetzt
 
 ---
 
@@ -82,6 +80,8 @@ Element                              Verbindung
 - Extrahieren (Löslichkeit, Tee)
 - Destillation (Siedepunkt, Alkohol, Erdölfraktionierung, Silizium)
 - Chromatografie (Adsorbtion, Löslichkeit, Fliessgeschwindigkeit)
+
+---
 
 #### Salzgewinnung
 - Zerkleinern
@@ -138,6 +138,8 @@ Element                              Verbindung
 - Ionenbindung
 - Oktettregel
 - $Na^+ + Cl_- \to NaCl$
+
+---
 
 ### Bio 8c
 #### Zucker
