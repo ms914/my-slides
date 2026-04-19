@@ -10,7 +10,7 @@ jobs:
       - name: Build Marp Slide
         uses: docker://marpteam/marp-cli:latest
         with:
-          args: slides.md -o index.html --html
+          args: --user root slides.md -o index.html --html
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
