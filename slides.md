@@ -67,6 +67,7 @@ Element                              Verbindung
 
 #### Meerwasser
 - Totes Meer
+- Salinen in Frankreich
 
 #### Verwendung
 - Ernährung
@@ -76,3 +77,17 @@ Element                              Verbindung
 - Rohstoff für Chlorchemie (Salzsäure, Ätznatron, PVC)
 - Wasserenthärtung
 - Streusalz
+- Glashütten (Sand, Soda (Natriumcarbonat), Pottasche (Kaliumkarbonat), Manganoxid, Metalloxid
+- Waldglashütten (Gewinnung der Pottasche aus der Verbrennung von Holz)
+
+#### Aufbau der Atome aus Protonen, Elektronen
+- Atome: Kern und Hülle (Elektronen)
+- Thomson-Modell
+- Rutherford-Modell
+- Bohr-Modell
+
+#### Atome und Ionen
+- Elektronenübertragung
+- Ionenbindung
+- Oktettregel
+- $Na^+ + Cl_- \to NaCl$
