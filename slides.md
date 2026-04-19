@@ -30,6 +30,8 @@ Reinstoff                            Gemisch
 nein / chemisches Trennverfahren / ja
 Element                              Verbindung
 
+---
+
 #### Gemische
 ##### Heterogene Gemische
 - Mineralien (Quarz + Feldspat = Granit)
@@ -43,3 +45,17 @@ Element                              Verbindung
 - Sprudel (Wasser + Kohlendioxid)
 - Luft (Stickstoff + Sauerstoff)
 - Salzlösung (Salz + Wasser = Sole)
+
+---
+
+#### Salzgewinnung
+- Zerkleinern
+- Lösen in Wasser
+- Filtrieren
+- Verdampfen
+
+#### Salinental
+- Solequelle in 500 m Tiefe 
+- Konzentration der Sole durch Verdunstung in Gradierwerken
+- Verdampfung in Siederei in Pfannen
+- heute: Europas größtes Freilufinhalatorium mit 7 grißen Gradierwerken (1250 m lang, 9m hoch)
