@@ -6,17 +6,17 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Install Marp CLI
+        run: npm install -g @marp-team/marp-cli
 
       - name: Build Marp Slide
-        uses: docker://marpteam/marp-cli:latest
-        with:
-          # Wir nutzen die Umgebungsvariable des Runners, um Schreibrechte zu garantieren
-          args: slides.md -o index.html --html
-        env:
-          MARP_USER: "1001:121"
+        run: marp slides.md -o index.html --html
+
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          folder: . # Der Ordner, in dem die index.html liegt
+          folder: .
+          branch: gh-pages
