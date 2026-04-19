@@ -1,6 +1,7 @@
 ---
 marp: true
 theme: uncover
+backgroundColor: #fff
 ---
 
 # Willkommen!
