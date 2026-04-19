@@ -59,3 +59,20 @@ Element                              Verbindung
 - Konzentration der Sole durch Verdunstung in Gradierwerken
 - Verdampfung in Siederei in Pfannen
 - heute: Europas größtes Freilufinhalatorium mit 7 grißen Gradierwerken (1250 m lang, 9m hoch)
+
+#### Kali Bergbau
+- Untertageabbau von Kali und Steinsalz
+- Düngemittel
+- Streusalz
+
+#### Meerwasser
+- Totes Meer
+
+#### Verwendung
+- Ernährung
+- Dünger (Liebig)
+- Haltbarmachung von Lebensmitteln
+- Physiologie, Stoffwechsel (ATP-NADP), Nervenreizleitung
+- Rohstoff für Chlorchemie (Salzsäure, Ätznatron, PVC)
+- Wasserenthärtung
+- Streusalz
