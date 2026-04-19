@@ -19,7 +19,7 @@ ausstehende Referate:
 
 ## Montag, 19.4.26
 1. Bio 7c Klassifizierung von Lebewesen, Referat, Tafel, Pult
-2. Chemie 8c Salze Einführung
+2. Chemie 8c Stofftrennung, Salze Einführung
 
 #### Bestimmung, Klassifizierung
 - Kriterien (Farbe, Fortpflanzung, Lebensraum, Anzahl der Beine, Wie viele Zellen)
