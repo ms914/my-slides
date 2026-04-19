@@ -147,5 +147,7 @@ Element                              Verbindung
 ##### zurück: kein Zucker (Alkohol) (25 g x 5 = 100 g in 1 Woche), 90 g pro Tag ist die Rate (Pizza, Brot)
 
 #### Atmung
+- Zellatmung C6H12O6 + O2 -> CO2 + H2O + ATP
+- Mitochondrien, ATP
 
 #### Nerven
